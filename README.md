@@ -40,6 +40,7 @@ My goal is to become a strong full-stack developer and start freelancing by deli
 ---
 
 ## 📊 Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicHymn&layout=compact&theme=tokyonight" />
 </p>

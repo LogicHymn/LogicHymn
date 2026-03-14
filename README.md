@@ -83,8 +83,7 @@ Interactive drum kit that plays sounds using keyboard keys.
 
 📧 Email: **shlok.alpha21@gmail.com**
 
-💼 LinkedIn  
-https://www.linkedin.com/in/shlokgupta2005
+💼 LinkedIn: **https://www.linkedin.com/in/shlokgupta2005**
 
 ---
 

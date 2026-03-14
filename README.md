@@ -7,7 +7,7 @@
 
 I'm a Computer Science student passionate about **software development and problem-solving**.
 
-I enjoy building **web applications and practical projects** while continuously improving my **Data Structures & Algorithms skills**.
+I enjoy building **web applications and real projects** while continuously improving my **Data Structures & Algorithms skills**.
 
 My goal is to become a **strong full-stack developer and build scalable real-world applications**.
 
@@ -41,9 +41,18 @@ My goal is to become a **strong full-stack developer and build scalable real-wor
 # 📌 Featured Projects
 
 ### 🎲 Dice Game
-A simple JavaScript dice game where two players roll dice and the higher number wins.
+A simple browser-based dice game built using JavaScript.
 
 🔗 https://github.com/LogicHymn/dice-game
+
+---
+
+### 🥁 Drum Kit
+Interactive drum kit that plays sounds using keyboard keys.
+
+🔗 https://github.com/LogicHymn/drum-kit
+
+---
 
 *(More projects coming soon)*
 
@@ -74,9 +83,9 @@ A simple JavaScript dice game where two players roll dice and the higher number 
 
 📧 Email: **shlok.alpha21@gmail.com**
 
-💼 LinkedIn:  
+💼 LinkedIn  
 https://www.linkedin.com/in/shlokgupta2005
 
 ---
 
-⚡ **Consistent learning, real projects, and disciplined growth.**
+⚡ *Consistent learning, real projects, and disciplined growth.*

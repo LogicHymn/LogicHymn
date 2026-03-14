@@ -1,56 +1,82 @@
 <h1 align="center">Hi, I'm Shlok Gupta 👋</h1>
-<h3 align="center">Student | Full-Stack Developer in Progress | Learning DSA</h3>
+<h3 align="center">Full-Stack Developer in Progress | Learning DSA | Building Real Projects</h3>
 
 ---
 
 ## 🚀 About Me
-I'm a student passionate about software development and problem-solving.  
-I enjoy building websites and college projects while continuously improving my Data Structures & Algorithms skills.  
-My goal is to become a strong full-stack developer and start freelancing by delivering real-world, scalable solutions.
+
+I'm a Computer Science student passionate about **software development and problem-solving**.
+
+I enjoy building **web applications and practical projects** while continuously improving my **Data Structures & Algorithms skills**.
+
+My goal is to become a **strong full-stack developer and build scalable real-world applications**.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-**Frontend**  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+### 💻 Programming
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Backend (Learning & Using)**  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Database**  
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
----
-
-## 🌟 What I Do
-- Build responsive websites and college projects  
-- Learn and practice Data Structures & Algorithms  
-- Develop full-stack applications step by step  
-- Prepare for freelancing and real-world development  
+### 🗄 Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📊 Most Used Languages
+# 📌 Featured Projects
+
+### 🎲 Dice Game
+A simple JavaScript dice game where two players roll dice and the higher number wins.
+
+🔗 https://github.com/LogicHymn/dice-game
+
+*(More projects coming soon)*
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicHymn&layout=compact&theme=tokyonight" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LogicHymn&show_icons=true&theme=tokyonight"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicHymn&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: **shlok.alpha21@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/shlokgupta2005](https://www.linkedin.com/in/shlokgupta2005)
+# 🌱 What I'm Currently Doing
+
+- Learning **Data Structures & Algorithms**
+- Building **frontend and full-stack projects**
+- Improving **backend development skills**
+- Preparing for **real-world software development**
 
 ---
 
-⚡ *Consistent learning, real projects, and disciplined growth.*
+# 📫 Connect With Me
+
+📧 Email: **shlok.alpha21@gmail.com**
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/shlokgupta2005
+
+---
+
+⚡ **Consistent learning, real projects, and disciplined growth.**
